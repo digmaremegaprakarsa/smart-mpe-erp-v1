@@ -1,0 +1,8 @@
+{
+  "name": "SMART MPE ERP",
+  "description": "A comprehensive management system for electric motor repair workshops featuring RBAC, real-time tracking, and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
